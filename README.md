@@ -22,6 +22,6 @@ I'm Michelle, currently pursuing my bachelor's degree majoring in computer scien
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanoto-the-explorer&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanoto-the-explorer&hide=TeX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanoto-the-explorer&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tanoto-the-explorer.tanoto-the-explorer)
