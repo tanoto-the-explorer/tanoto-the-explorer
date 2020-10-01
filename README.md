@@ -14,7 +14,7 @@ I'm Michelle, currently pursuing my bachelor's degree majoring in computer scien
 ![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![WordPress](https://img.shields.io/badge/-WordPress-00599C?style=flat-square&logo=wordpress)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
