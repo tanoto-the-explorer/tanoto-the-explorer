@@ -2,9 +2,9 @@
 
 I'm Michelle, currently pursuing my bachelor's degree majoring in computer science from [University of Technology Sydney](https://www.uts.edu.au/). I am a tech enthusiast & Women in STEM advocate. I am always open to collaborating on projects, teach people and learn new stuff. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-michelletanoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelletanoto/)](https://www.linkedin.com/in/michelletanoto/)
-[![Youtube Badge](https://img.shields.io/badge/-michelletanoto-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC7qnwX8U8_AsNO2-bJvS6Mw/featured?view_as=subscriber)](https://www.youtube.com/channel/UC7qnwX8U8_AsNO2-bJvS6Mw/featured?view_as=subscriber)
-[![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=netlify&logoColor=white&link=https://michelletanoto.netlify.app/)](https://michelletanoto.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-michelletanoto-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelletanoto/)](https://www.linkedin.com/in/michelletanoto/)
+[![Youtube Badge](https://img.shields.io/badge/-michelletanoto-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC7qnwX8U8_AsNO2-bJvS6Mw/featured?view_as=subscriber)](https://www.youtube.com/channel/UC7qnwX8U8_AsNO2-bJvS6Mw/featured?view_as=subscriber)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=netlify&logoColor=white&link=https://michelletanoto.netlify.app/)](https://michelletanoto.netlify.app/)
 
 ## ⚡ Technologies
 
