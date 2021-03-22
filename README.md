@@ -19,7 +19,6 @@ I'm Michelle, currently pursuing my bachelor's degree majoring in computer scien
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanoto-the-explorer&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanoto-the-explorer&layout=compact)
